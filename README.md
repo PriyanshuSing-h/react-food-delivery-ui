@@ -14,7 +14,6 @@ This is a frontend project I built to practice React and state management. Inste
 - **State Management:** Used Redux to handle the cart logic so the cart data stays consistent when navigating between different restaurant menus.
 - **Component Structure:** Broke down the UI into functional components like restaurant cards, header, and menu items to keep the code clean.
 
-## UI Preview
 
 
 ## Steps to run locally
